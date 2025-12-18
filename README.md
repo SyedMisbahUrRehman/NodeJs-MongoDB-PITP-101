@@ -30,7 +30,7 @@ It supports both **local MongoDB (Compass)** and **MongoDB Atlas (cloud)** conne
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/studentdb-api.git
+git clone https://github.com/SyedMisbahUrRehman/NodeJs-MongoDB-PITP-101.git
 cd studentdb-api
 ```
 
