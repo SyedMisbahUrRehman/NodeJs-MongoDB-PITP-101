@@ -31,7 +31,7 @@ It supports both **local MongoDB (Compass)** and **MongoDB Atlas (cloud)** conne
 
 ```bash
 git clone https://github.com/SyedMisbahUrRehman/NodeJs-MongoDB-PITP-101.git
-cd studentdb-api
+cd NodeJs-MongoDB-PITP-101
 ```
 
 ### 2. Install dependencies
